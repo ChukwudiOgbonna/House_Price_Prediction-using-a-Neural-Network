@@ -1,0 +1,2 @@
+We used a 4 layer network( 1 input layer, 2 hidden layers and 1 output layer) to predict thr price of a house based on a given set of features
+we used the Mean square error loss undtion and the Adam Optimizer for training our model. We implemented early stopping to prevent overfitting our model to the data
